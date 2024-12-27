@@ -1,0 +1,7 @@
+Before beginning the migration, ensure the following:
+
+1. VMware Workstation or ESXi setup.
+2. Access to a GCP account.
+3. Basic knowledge of GCP services (VM instances, Cloud Storage, etc.).
+4. SSH access to GCP and your local machine.
+5. gcloud CLI tool installed and configured on your local machine.
